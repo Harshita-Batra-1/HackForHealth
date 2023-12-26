@@ -38,11 +38,13 @@ A benign growth is non-cancerous, typically develops slowly, and doesn't spread 
 App has two options of uploading an image or capturing directly from the camera. It predicts the type of skin disease.
 
 
-              Depression Special Treatment
+      Depression Special Treatment
 Peer to Peer chat option available to users.
 Connecting to peers who have suffered from such a situation which is causing depression can help you get the right path timely.
 Our website provides booking appointment options free of cost but peers can ask for a fee for consultation.
 
+      Health Insurance ICP 
+ICP Blockchain is used to build 
 
       Tracking of medicines using blockchain
  Blockchain is the decentralized ledger, which records and protects transaction data shared among multiple parties
