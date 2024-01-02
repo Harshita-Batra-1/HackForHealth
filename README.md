@@ -2,8 +2,6 @@
 
 Project Name - Dr. Tech
 
-![logo](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/cbd35075-a98d-419d-a8c2-4b46c98234e6)
-
 Tagline - SHE Builds, SHE Wins!
 
 Problem Statement:
@@ -41,3 +39,4 @@ Lack of Personalized Healthcare: Women often face challenges in seeking personal
 
 Social Stigma: Long-standing social stigma surrounding menstruation hinders open discussions and contributes to the reluctance of women in seeking proper healthcare and education.
 
+![logo](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/cbd35075-a98d-419d-a8c2-4b46c98234e6)
