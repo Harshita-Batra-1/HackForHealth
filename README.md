@@ -2,6 +2,8 @@
 
 Project Name - Dr. Tech
 
+![logo](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/cbd35075-a98d-419d-a8c2-4b46c98234e6)
+
 Tagline - SHE Builds, SHE Wins!
 
 Problem Statement:
@@ -9,6 +11,8 @@ Problem Statement:
 Menstrual hygiene is a pervasive issue affecting girls in South Asia, with over a third of them missing school during their periods due to inadequate access to toilets and pads, coupled with a lack of proper education about menstruation. Globally, 1.2 billion women face challenges related to basic sanitation and hygiene, contributing to period poverty and perpetuating societal stigma. The existing healthcare system does not effectively address the physical and psychological needs of women during their menstrual cycles, further exacerbating the problem.
 
 Solution:
+
+![image](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/4ac09cc0-2896-4173-8f2f-45c322d0cb01)
 
 Comprehensive Menstrual Education Programs: Implement educational initiatives to raise awareness about menstruation, hygiene practices, and debunk myths. Collaborate with schools, community centers, and local authorities to integrate comprehensive menstrual education into curricula.
 
