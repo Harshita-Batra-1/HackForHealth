@@ -2,12 +2,14 @@
 
 Project Name - Dr. Tech
 
-Tagline - SHE Built, SHE Wins!
+Tagline - SHE Builds, SHE Wins!
 
 Problem Statement:
+
 Menstrual hygiene is a pervasive issue affecting girls in South Asia, with over a third of them missing school during their periods due to inadequate access to toilets and pads, coupled with a lack of proper education about menstruation. Globally, 1.2 billion women face challenges related to basic sanitation and hygiene, contributing to period poverty and perpetuating societal stigma. The existing healthcare system does not effectively address the physical and psychological needs of women during their menstrual cycles, further exacerbating the problem.
 
 Solution:
+
 Comprehensive Menstrual Education Programs: Implement educational initiatives to raise awareness about menstruation, hygiene practices, and debunk myths. Collaborate with schools, community centers, and local authorities to integrate comprehensive menstrual education into curricula.
 
 Infrastructure Improvement: Work towards providing better sanitation facilities in schools, including the availability of toilets and sanitary pads. Advocate for policies that address menstrual hygiene in educational institutions.
