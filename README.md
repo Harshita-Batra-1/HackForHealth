@@ -10,7 +10,7 @@ Menstrual hygiene is a pervasive issue affecting girls in South Asia, with over 
 
 Solution:
 
-![image](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/4ac09cc0-2896-4173-8f2f-45c322d0cb01)
+![image](https://github.com/Harshita-Batra-1/HackForHealth/assets/101546087/acaf2d41-a8aa-438d-97e2-d220f5f683ba)
 
 Comprehensive Menstrual Education Programs: Implement educational initiatives to raise awareness about menstruation, hygiene practices, and debunk myths. Collaborate with schools, community centers, and local authorities to integrate comprehensive menstrual education into curricula.
 
